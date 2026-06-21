@@ -5,7 +5,7 @@ Dr. Abhishek Subramanian · Department of Biotechnology · IIT Hyderabad
 
 ---
 
-## ⚡ Quick Start — Open Locally
+##  Quick Start — Open Locally
 
 Just double-click **`index.html`** — it opens directly in any browser, no server needed.
 
@@ -13,7 +13,7 @@ All CSS, JavaScript, and images are embedded inside `index.html` so it is fully 
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 bnsb-lab-website/
@@ -66,7 +66,7 @@ Upload all files to the `public_html` folder (or `www`) via FTP/SFTP.
 
 ---
 
-## ✏️ How to Edit Content
+##  How to Edit Content
 
 ### Update a publication
 
@@ -112,7 +112,7 @@ back into `index.html` between the `<style>` and `<script>` tags.
 
 ---
 
-## 🗺️ Pages / Sections
+##  Pages / Sections
 
 | Section | ID | Description |
 |---|---|---|
@@ -132,7 +132,7 @@ back into `index.html` between the `<style>` and `<script>` tags.
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 All colours and spacing live as CSS variables in `assets/css/styles.css` (and inline in `index.html`):
 
@@ -153,7 +153,7 @@ Fonts are loaded from **Google Fonts** — an internet connection is needed for 
 
 ---
 
-## 📋 Content Summary
+##  Content Summary
 
 | Content | Count |
 |---|---|
@@ -170,7 +170,7 @@ Fonts are loaded from **Google Fonts** — an internet connection is needed for 
 
 ---
 
-## 📞 Contact
+##  Contact
 
 Dr. Abhishek Subramanian
 Department of Biotechnology, IIT Hyderabad
